@@ -1,0 +1,20 @@
+.product-card {
+    border-radius: 10px;
+    transition: 0.2s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-3px);
+}
+
+.product-image {
+    height: 170px;
+    width: 100%;
+    object-fit: contain;   /* 🔥 no cutting */
+    background-color: #f8f9fa;  /* nice light background */
+    padding: 10px;         /* spacing around image */
+}
+
+.card-body {
+    padding: 12px;
+}
