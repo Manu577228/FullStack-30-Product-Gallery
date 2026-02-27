@@ -10,13 +10,14 @@ This application allows users to manage products and categories using a clean RE
 ### 🔹 Backend
 - Spring Boot
 - Spring Data JPA
+- Lombok
 - MySQL
 - REST APIs
 
 ### 🔹 Frontend
 - React (Vite)
 - Axios
-- CSS
+- Bootstrap 5
 
 ### 🔹 Database
 - MySQL
